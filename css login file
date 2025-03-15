@@ -147,6 +147,7 @@ body {
 
 .form a:hover {
   text-decoration: underline;
+  color: #ff7300;
 }
 
 
