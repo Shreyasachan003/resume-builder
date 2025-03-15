@@ -84,9 +84,9 @@ body {
 
 
 .container {
-  width: 280px; 
-  height: auto; 
-  padding: 1.5rem;
+  width: 320px; 
+  min-height: 300px;  
+  padding: 2rem;
   background: rgba(255, 200, 150, 0.9); 
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
@@ -98,8 +98,7 @@ body {
 }
 
 .container .registration {
-  display: none;
-}
+  display: block;
 
 #check:checked~.registration {
   display: block;
