@@ -1,0 +1,50 @@
+.contact {
+    display: flex;
+}
+
+.left-column {
+    padding: 50px;
+    width: 50%;
+}
+
+.right-column {
+    background-image: url('https://images.app.goo.gl/5o4mqSFW3TTrQhqc9');
+    background-size: contain;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(246, 242, 242);
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.button {
+    background-color: #ff914d;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.button:hover {
+    background-color: #ff7300;
+}
+
