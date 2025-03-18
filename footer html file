@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Footer </title>
+    <link rel="stylesheet" href="footer.css">
+</head>
+<body>
+    <footer>
+        <div class="footer-container">
+            <div class="footer-section">
+              <h3>Social Media Handles</h3>
+                <div class="social-media">
+                    <a href="#"><img src="twitter-icon.png" alt="Twitter"></a>
+                    <a href="#"><img src="facebook-icon.png" alt="Facebook"></a>
+                    <a href="#"><img src="instagram-icon.png" alt="Instagram"></a>
+                    <a href="#"><img src="linkedin-icon.png" alt="LinkedIn"></a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Why Rewrapper</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Services</h3>
+                <ul>
+                    <li><a href="#">Resume ai expert</a></li>
+                    <li><a href="#">Resume editor</a></li>
+                    <li><a href="#">Resume analyzer</a></li>
+                    <li><a href="#">Resume builder</a></li>
+                    
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Address</h3>
+                <p>Global HQ: 806 W Coffin St, Dennison, TX, 75020</p>
+                <p>EMEA: 10 Malus Close, Peterborough PE78DU UK</p>
+                <p>3rd Floor, Sector 62, Noida 201301 IN</p>
+            </div>
+            <div class="footer-section">
+                <h3>Phone number</h3>
+              <p>+1-832-346-7446</p>
+            </div>
+            <div class="footer-section">
+                <h3>Email</h3>
+                <p><a href="mailto:Rewrapper .com">Rewrapper.com</a></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2025 All Rights Reserved By Rewrapper private limited.</p>
+        </div>
+    </footer>
+</body>
+</html>
